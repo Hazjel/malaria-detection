@@ -1,0 +1,33 @@
+# Datasets (too large for GitHub)
+datasets/
+
+# Pre-trained base weights
+*.pt
+
+# Keep trained best weights (small, <15MB) - uncomment below to include
+# !runs/yolov8n/train/weights/best.pt
+# !runs/yolov8n-cbam/train/weights/best.pt
+# !runs/yolov9/train/weights/best.pt
+
+# Literature PDFs
+literature/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

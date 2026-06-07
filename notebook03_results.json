@@ -1,0 +1,12 @@
+{
+  "model": "YOLOv9",
+  "best_weights": "d:\\malaria-detection\\runs\\yolov9\\train\\weights\\best.pt",
+  "map50": 0.9617,
+  "map50_95": 0.9396,
+  "precision": 0.9585,
+  "recall": 0.891,
+  "f1": 0.9235,
+  "fps": 57.53,
+  "avg_ms": 17.38,
+  "total_params": 7167862
+}

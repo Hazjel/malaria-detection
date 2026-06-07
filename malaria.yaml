@@ -1,0 +1,9 @@
+path  : d:\malaria-detection\datasets\processed
+train : images/train
+val   : images/val
+test  : images/test
+
+nc    : 2
+names :
+  0: parasitized
+  1: uninfected

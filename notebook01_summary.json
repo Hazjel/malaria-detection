@@ -1,0 +1,20 @@
+{
+  "status": "done",
+  "PROJECT_ROOT": "d:\\malaria-detection",
+  "total_train": 21676,
+  "total_val": 5606,
+  "total_test": 2803,
+  "yaml_path": "d:\\malaria-detection\\malaria.yaml",
+  "PATHS": {
+    "raw_nih": "datasets\\raw\\NIH",
+    "raw_mpidb": "datasets\\raw\\MP-IDB",
+    "processed": "datasets\\processed",
+    "img_train": "datasets\\processed\\images\\train",
+    "img_val": "datasets\\processed\\images\\val",
+    "img_test": "datasets\\processed\\images\\test",
+    "lbl_train": "datasets\\processed\\labels\\train",
+    "lbl_val": "datasets\\processed\\labels\\val",
+    "lbl_test": "datasets\\processed\\labels\\test",
+    "figures": "results\\figures"
+  }
+}
