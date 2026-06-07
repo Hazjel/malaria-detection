@@ -26,7 +26,7 @@ YOLOv8n+CBAM achieves competitive accuracy with the fastest inference speed at 9
 - **Preprocessing:** CLAHE enhancement, YOLO-format annotation conversion
 
 Dataset not included in this repository due to size. Download from:
-- [NIH Malaria Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+- [NIH Malaria Dataset on HuggingFace](https://huggingface.co/datasets/electricsheepafrica/malaria-parasite-detection-yolo)
 - [MP-IDB on Roboflow](https://universe.roboflow.com/dsi-malaria/mp-idb)
 
 ---
