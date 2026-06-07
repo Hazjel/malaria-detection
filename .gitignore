@@ -28,6 +28,9 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Paper (not for public repo)
+viskom/
+
 # IDE
 .vscode/
 .idea/
