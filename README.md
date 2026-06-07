@@ -27,7 +27,7 @@ YOLOv8n+CBAM achieves competitive accuracy with the fastest inference speed at 9
 
 Dataset not included in this repository due to size. Download from:
 - [NIH Malaria Dataset](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
-- [MP-IDB](http://www.diag.uniroma1.it/~labini/cam/)
+- [MP-IDB on Roboflow](https://universe.roboflow.com/dsi-malaria/mp-idb)
 
 ---
 
